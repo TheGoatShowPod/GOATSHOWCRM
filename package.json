@@ -1,0 +1,26 @@
+{
+  "name": "goat-show-crm",
+  "version": "1.0.0",
+  "description": "Interview Outreach CRM",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "firebase": "10.8.0",
+    "lucide-react": "0.344.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
